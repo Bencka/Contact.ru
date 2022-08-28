@@ -17,5 +17,5 @@ Route::get('/', function () {
     return view('welcome');
 });
 Route::get('/12',function (){
-    return "ghbdt";
+    return "ghbdtsdfsd";
 });
